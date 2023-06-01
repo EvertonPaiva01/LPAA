@@ -1,0 +1,48 @@
+# Iniciando o projeto #
+git init
+
+# Ver os arquivo que estão para serem versionados #
+git status
+
+# Adicionar os arquivos para serem efetuadas as mudanças #
+git add .
+
+# Comentar as alterações #
+git commit -a -m "comentário aqui"
+
+# Criar uma nova Branch #
+git checkout -b "Nome do branch"
+
+# Criar o Branch no repositório remoto #
+git push --set-upstream origin Nome do branch
+
+# Mudar de branch #
+git checkout "Nome do branch"
+
+# Ver a branch atual #
+git branch
+
+# Subir as mudanças para o remoto #
+git push
+
+# Para subir as alterações no main #
+    # Muda para o repositório principal #
+    git checkout main
+
+    # Une os arquivo que foram criados no branch de teste #
+    git merge nome_do_branch_de_teste
+
+    # Sobe a mudança do master para o repositório remoto #
+    git push
+
+# Para baixar o repositório que foram atualizados no projeto #
+git pull
+
+# Clonar um projeto #
+git clone https://url_a_ser_clonada.git 
+
+
+
+
+# Vídeo com os comando do git #
+https://www.youtube.com/watch?v=Zwv9qRyVeU4&t=271s&ab_channel=MatheusBattisti-HoradeCodar
