@@ -41,7 +41,11 @@ git pull
 # Clonar um projeto #
 git clone https://url_a_ser_clonada.git 
 
+# Excluir um arquivo untreacked do projeto  #
+git clean -f
 
+# Voltar ações #
+git checkout nome_arquivo.py
 
 
 # Vídeo com os comando do git #
