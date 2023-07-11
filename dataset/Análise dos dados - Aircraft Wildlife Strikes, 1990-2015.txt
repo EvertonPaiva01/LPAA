@@ -1,0 +1,26 @@
+Para realizar uma análise qualitativa, quantitativa e exploratória da base de dados "Aircraft Wildlife Strikes, 1990-2015", é importante entender a natureza dos dados disponíveis. Infelizmente, como sou um modelo de linguagem treinado pela OpenAI, não tenho acesso direto a bancos de dados específicos, como esse mencionado. No entanto, posso fornecer uma visão geral de como você pode abordar essa análise, descrevendo os principais elementos que você pode explorar.
+
+Análise Qualitativa:
+Uma análise qualitativa da base de dados pode envolver a revisão dos campos e variáveis disponíveis para entender a natureza das informações coletadas. Você pode examinar as descrições dos campos para obter uma visão geral dos dados. Alguns exemplos de variáveis que podem ser relevantes incluem: data do incidente, localização geográfica, espécie de animal envolvida, tipo de aeronave, danos à aeronave, etc. Ao revisar essas variáveis, você pode identificar padrões, tendências ou relações que possam ser interessantes de explorar posteriormente.
+
+Análise Quantitativa:
+Uma análise quantitativa envolverá a aplicação de métodos estatísticos e matemáticos aos dados disponíveis. Aqui estão algumas métricas e análises que você pode realizar:
+
+Frequência de colisões: Calcule o número total de colisões entre aeronaves e animais durante o período de 1990 a 2015. Você pode agrupar os dados por ano, mês ou localização para identificar tendências ao longo do tempo ou em áreas específicas.
+
+Espécies mais comuns: Identifique as espécies de animais mais comumente envolvidas em colisões com aeronaves. Você pode calcular a contagem de ocorrências para cada espécie e criar uma classificação das espécies mais frequentes.
+
+Gravidade das colisões: Analise os danos causados às aeronaves em diferentes colisões. Você pode examinar as variáveis relacionadas aos danos (por exemplo, leve, moderado, grave) e calcular a distribuição de frequência para entender a gravidade dos incidentes.
+
+Relação entre localização e colisões: Explore se há alguma relação entre a localização geográfica e a frequência de colisões. Você pode mapear os incidentes em um mapa e identificar áreas com maior incidência de colisões.
+
+Análise Exploratória:
+A análise exploratória permite descobrir insights adicionais nos dados. Alguns métodos exploratórios comuns incluem:
+
+Visualização de dados: Utilize gráficos, como histogramas, gráficos de barras e gráficos de dispersão, para visualizar os padrões e relacionamentos nos dados. Isso pode ajudar a identificar correlações ou tendências significativas.
+
+Análise de séries temporais: Se os dados incluírem informações de data e hora, você pode realizar uma análise de séries temporais para identificar padrões sazonais ou tendências ao longo do tempo.
+
+Análise de clusters: Utilize técnicas de agrupamento para identificar grupos de incidentes com características semelhantes. Isso pode revelar informações sobre áreas geográficas específicas ou espécies de animais.
+
+Essas são apenas algumas sugestões de como você pode realizar uma análise qualitativa, quantitativa e exploratória dos dados da base "Aircraft Wildlife Strikes, 1990-2015". É importante adaptar essas abordagens de acordo com a natureza dos dados e com os objetivos específicos da análise.
